@@ -1,0 +1,31 @@
+_repo: The-Red-Cross-Girls-on-the-French-Firing-Line_60265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    alias: Vandercook, Margaret O'Bannon Womack
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2019-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60265'
+  lccn: '16010722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- France -- Juvenile fiction'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Participation -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'Nursing -- Juvenile fiction'
+- GITenberg
+title: The Red Cross Girls on the French Firing Line
+url: http://www.gutenberg.org/ebooks/60265
